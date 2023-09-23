@@ -4,7 +4,7 @@ Translate text with ease using Googletrans Python library for multilingual commu
 A list of all the supported languages can be found here: <br>
 https://cloud.google.com/translate/docs/languages
 
-Make sure to install and upgrade dependencies by running the code below: 
+Make sure to install and upgrade dependencies by running the code below: <br>
 !pip install --upgrade googletrans==4.0.0-rc1
 
 Here is an implementation of the code: <br>
